@@ -1,79 +1,47 @@
 # 👋 Hi, I'm Daniyar — Backend Developer (Financial Systems Specialist)
 
-### 🏦 Financial Domain Backend Developer (10+ Years)
+🏦 Financial Backend Developer (10+ Years)
 
-With 10+ years of experience in the financial domain, I have worked on core banking systems, transaction processing, settlement workflows, interest calculation, and other mission‑critical financial operations. My expertise centers on backend development using **Spring Boot**, **Spring MVC**, and **Oracle Database**, with a strong focus on building secure, stable, and high‑performance systems.
-
-I deliver backend solutions that are reliable, maintainable, and optimized for real‑world financial environments — including closed‑network and offline systems.
-
+I have 10+ years of experience in financial systems, including core banking, transaction processing, settlement, and interest calculation.
+I specialize in backend development using Spring Boot, Spring MVC, and Oracle Database, building secure and high‑performance systems.
 ---
 
 ## 🔧 Tech Stack
-
-### **Backend**
-- Java (8/11/17)
-- Spring Boot / Spring MVC
-- Spring Security
-- REST API Design
-- JSP (Legacy Systems)
-
-### **Database**
-- Oracle Database
-- PL/SQL (Procedures, Functions, Triggers)
-- Query Optimization & Performance Tuning
-- Transaction Management
-
-### **Tools & Others**
-- Git / GitHub
-- Maven / Gradle
-- Linux Server Environment
-- Batch Scheduling Systems
-- Legacy System Refactoring
-
+ - Backend: Java (8/11/17), Spring Boot, Spring MVC, Spring Security, REST API
+ - Database: Oracle, PL/SQL, Query Optimization, Transaction Management
+ - Tools: Git, Maven/Gradle, Linux, Batch Scheduling, Legacy System Refactoring
 ---
 
-## 🏦 Financial Domain Expertise
+## 🏦 Expertise
 
 - Core Banking (Account System)
-- Transaction Processing 
-- Settlement & Reconciliation
-- Interest Calculation
-- Security‑Focused Architecture
+- Transaction Processing & Reconciliation
+- Interest Calculation & Security-Focused Architecture
 - Audit Logging & Compliance
-- Large‑Scale Data Processing
-- Closed‑Network / Offline System Development
-
+- Large‑Scale Data Handling
+- Closed‑Network / Offline System
 ---
 
 ## 📂 Featured Projects
 
-### 🔐 **Secure Contact Digital API**
-A Spring Boot–based secure API demo showcasing:
-- Token‑based authentication
-- Encrypted data handling
-- Clean REST architecture
-- Oracle‑backed data persistence
-
-👉 *Repository:* `https://github.com/Daniyar-Yuriev/portfolio-secure-digital-contract-api`
-
+🔐 Secure Contact Digital API
+  Spring Boot API with:
+  - Token‑based authentication
+  - Encrypted data handling
+  - Clean REST architecture
+  - Oracle‑backed persistence
+    
+  👉 *Repository:* `https://github.com/Daniyar-Yuriev/portfolio-secure-digital-contract-api`
 ---
 
 ## 🌐 Portfolio Website
-Currently building a WordPress‑based portfolio site to showcase:
-- Projects
-- Technical articles
-- API demos
-- Contact information
-
-👉 *Coming soon…*
-
----
+WordPress-based portfolio coming soon:
+- Projects, Technical Articles, API Demos, Contact Info
 
 ## 📫 Contact
 - **Email:** daniyar2218@example.com  
 - **GitHub:** https://github.com/Daniyar-Yuriev/ 
 - **Portfolio:** portfolio-secure-digital-contract-api
-
 ---
 
 ### ⭐ If you like my work, feel free to star my repositories!
