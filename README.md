@@ -39,7 +39,7 @@ WordPress-based portfolio coming soon:
 - Projects, Technical Articles, API Demos, Contact Info
 
 ## 📫 Contact
-- **Email:** daniyar2218@example.com  
+- **Email:** daniyar2218@outlook.com  
 - **GitHub:** https://github.com/Daniyar-Yuriev/ 
 - **Portfolio:** portfolio-secure-digital-contract-api
 ---
