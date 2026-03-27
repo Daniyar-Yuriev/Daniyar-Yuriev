@@ -36,12 +36,12 @@ I specialize in backend development using Spring Boot, Spring MVC, and Oracle Da
 
 ## 🌐 Portfolio Website
 WordPress-based portfolio coming soon:
-- Projects, Technical Articles, API Demos, Contact Info
+-  portfolio-booking-system (basic)
 
 ## 📫 Contact
 - **Email:** daniyar2218@outlook.com  
 - **GitHub:** https://github.com/Daniyar-Yuriev/ 
-- **Portfolio:** portfolio-secure-digital-contract-api
+- **Portfolio:** portfolio-secure-digital-contract-api, portfolio-booking-system (basic)
 ---
 
 ### ⭐ If you like my work, feel free to star my repositories!
