@@ -14,6 +14,7 @@ Recently, I've been expanding my skillset beyond data engineering. I'm exploring
 - Data Engineering: Airflow, dbt, Kafka, Luigi, ETL/ELT
 - Cloud Platforms: AWS, GCP, Azure
 - Data Warehouses: Snowflake, BigQuery, Redshift
+- Databases: MySQL, Oracle, PostgreSQL, SQL Server, MongoDB
 - DevOps: Docker, Kubernetes, Terraform
 - BI & Reporting: Tableau, Power BI, Looker
 - Version Control: GitHub, GitLab
