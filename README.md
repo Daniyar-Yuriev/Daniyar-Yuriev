@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Daniyar — Backend Developer (Financial Systems Specialist)
+# 👋 Hi, Phillip - Senior Data Engineer
+About Me
 
-🏦 Financial Backend Developer (10+ Years)
+I am a Senior Data Engineer with over 10 years of experience specializing in building scalable data systems, optimizing ETL pipelines, and providing real-time data processing solutions. Throughout my career, I’ve focused on helping businesses leverage their data to drive informed decisions and improve operations.
 
-I have 10+ years of experience in financial systems, including core banking, transaction processing, settlement, and interest calculation.
-I specialize in backend development using Spring Boot, Spring MVC, and Oracle Database, building secure and high‑performance systems.
+Recently, I have also been exploring Spring Boot for backend development and expanding my frontend skills with React, but my core expertise remains in data engineering, particularly working with cloud platforms, big data technologies, and real-time systems.
 ---
 
 ## 🔧 Tech Stack
