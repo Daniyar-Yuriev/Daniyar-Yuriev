@@ -1,4 +1,4 @@
-# 👋 Hi, Phillip - Senior Data Engineer
+# 👋 Hi, I’m Phillip - Senior Data Engineer
 
 I’m a Senior Data Engineer with over 10 years of experience, specializing in building scalable data systems, optimizing ETL pipelines, and providing real-time data processing solutions. Throughout my career, I’ve helped businesses unlock the value of their data to drive informed decisions and improve operations.
 
