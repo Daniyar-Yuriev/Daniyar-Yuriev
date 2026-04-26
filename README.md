@@ -1,6 +1,7 @@
 # 👋 Hi, Phillip - Senior Data Engineer
 
 I am a Senior Data Engineer with over 10 years of experience specializing in building scalable data systems, optimizing ETL pipelines, and providing real-time data processing solutions. Throughout my career, I’ve focused on helping businesses leverage their data to drive informed decisions and improve operations.
+
 Recently, I have also been exploring Spring Boot for backend development and expanding my frontend skills with React, but my core expertise remains in data engineering, particularly working with cloud platforms, big data technologies, and real-time systems.
 ---
 
